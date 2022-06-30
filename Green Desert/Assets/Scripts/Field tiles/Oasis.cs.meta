@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c86fe2a467564114ba394f3a87b29528
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sand: {fileID: 30836059684398625, guid: 6064d43be9231f1419fde703248b9f6b, type: 3}
+  - Earth: {fileID: 2566861283790153283, guid: f4b6ee3683f8e304c8dd4c59f3aca121, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
